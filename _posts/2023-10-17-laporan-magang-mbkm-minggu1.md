@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Laporan Magang Minggu Pertama - MBKBM Bina Darma Unit Kerjasama dan Alumni
-date: 2023-10-17
+date: 2023-10-17 09:56:00 -0400
 description: 
 tags: laporan mbkbm magang
 categories: laporan
