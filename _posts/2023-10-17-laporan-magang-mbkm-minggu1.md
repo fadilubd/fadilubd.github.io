@@ -7,8 +7,6 @@ tags: laporan mbkm magang
 categories: laporan
 giscus_comments: false
 related_posts: false
-toc:
-  beginning: true
 ---
 [https://www.binadarma.ac.id/](https://www.binadarma.ac.id/)
 # Pendahuluan
