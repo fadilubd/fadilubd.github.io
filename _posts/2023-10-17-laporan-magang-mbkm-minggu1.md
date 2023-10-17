@@ -24,7 +24,7 @@ Saya juga diperkenalkan kepada alat lain yang sangat penting dalam konteks kerja
 # Masalah dengan Form Tracer Study
 Namun, ada masalah dengan form Tracer Study yang disediakan oleh Kemendikbud. Beberapa mahasiswa/alumni mengalami kesulitan dalam memasukkan data mereka melalui sistem Tracer Study Kemendikbud. Oleh karena itu, pihak unit kerjasama Bina Darma mengambil langkah inisiatif dengan membuat formulir alternatif menggunakan Google Form. Formulir ini disediakan bagi para alumni yang mengalami kesulitan saat mengakses atau mengisi data melalui sistem Tracer Study Kemendikbud.
 
-Kesimpulan
+# Kesimpulan
 Minggu pertama magang ini telah memberikan pemahaman yang kuat tentang tugas-tugas di unit kerjasama dan alumni Universitas Bina Darma, serta pengenalan terhadap alat-alat yang digunakan, seperti akun WhatsApp dan Tracer Study. Meskipun ada beberapa kendala terkait dengan sistem Tracer Study, pihak universitas telah mengambil tindakan proaktif dengan menyediakan formulir alternatif melalui Google Form. Saya siap untuk terus belajar dan berkontribusi lebih lanjut selama masa magang ini.
 
 Demikian laporan dari minggu pertama kegiatan magang ini. Terimakasih.
