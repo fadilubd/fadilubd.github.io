@@ -40,6 +40,6 @@ related_posts: false
   3. Membuat grup WhatsApp dan mengundang calon wisudawan sesuai program studi 
 ### Jumat - Sabtu, 27-28 Oktober 2023
 - Menyelesaikan tracer 2022
-  - Menguba data dari google form ke format tracerstudy kemendikbut
+  - Menguba data dari google form ke format tracerstudy kemendikbud
   - Mengupload file ke tracerstudy
 
