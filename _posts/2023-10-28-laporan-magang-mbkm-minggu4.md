@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Laporan Magang Minggu Ke-empat - MBKM Bina Darma Unit Kerjasama dan Alumni
-date: 2023-28-21 09:00:00 -0400
+date: 2023-10-28 09:00:00 -0400
 description: 
 tags: laporan mbkm magang
 categories: laporan
