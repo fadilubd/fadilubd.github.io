@@ -12,7 +12,7 @@ related_posts: false
 
 ### Senin - Kamis, 23-26 Oktober 2023
 - Membuat grup WhatsApp untuk 600 calon wisudawan 2023
-  - Mengubah daftar calon wisudawan ke google contacts CSV
+  1. Mengubah daftar calon wisudawan ke google contacts CSV
     ```python
     import pandas as pd
     import regex as re
@@ -36,5 +36,10 @@ related_posts: false
         }
       csvh.to_csv(f"out/Kontak Calon Wisudawan 2023 - {prodisheet}.csv", index=False)
     ```
-
+  2. Mengupload file csv ke google contacts
+  3. Membuat grup WhatsApp dan mengundang calon wisudawan sesuai program studi 
+### Jumat - Sabtu, 27-28 Oktober 2023
+- Menyelesaikan tracer 2022
+  - Menguba data dari google form ke format tracerstudy kemendikbut
+  - Mengupload file ke tracerstudy
 
