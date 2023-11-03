@@ -13,6 +13,7 @@ related_posts: false
 ### Senin - Kamis, 23-26 Oktober 2023
 - Membuat grup WhatsApp untuk 600 calon wisudawan 2023
   1. Mengubah daftar calon wisudawan ke google contacts CSV
+     
     ```python
     import pandas as pd
     import regex as re
