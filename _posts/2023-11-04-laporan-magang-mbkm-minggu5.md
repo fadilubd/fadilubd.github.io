@@ -12,5 +12,6 @@ related_posts: false
 
 ### Senin - Rabu, 30 Oktober - 01 November 2023
 - Mengconvert file pdf daftar wisudawan genap menjadi google contacts
+
 ### Kamis - Sabtu, 02-04 November 2023
 - Menghubungi wisudawan untuk mengisi kuisioner tracerstudy
