@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Laporan Magang Minggu Ke-enam - MBKM Bina Darma Unit Kerjasama dan Alumni
+title: Laporan Magang Minggu Kesembilan - MBKM Bina Darma Unit Kerjasama dan Alumni
 date: 2023-12-02 08:00:00 -0400
 description: 
 tags: laporan mbkm magang
