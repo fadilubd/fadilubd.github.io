@@ -12,4 +12,4 @@ related_posts: false
 
 1. Menghubungi alumni mengenai pengisian kuisioner tracer study
 2. Membagikan informasi lowongan pekerjaan ke grup alumni
-3. Mengperbaharui website dka
+3. Memperbaharui website dka
