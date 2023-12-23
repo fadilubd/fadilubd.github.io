@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Laporan Magang Minggu Keduabelas - MBKM Bina Darma Unit Kerjasama dan Alumni
-date: 2023-12-23 08:10:00 -0400
+date: 2023-12-23 08:10:00 +0700
 description: 
 tags: laporan mbkm magang
 categories: laporan
